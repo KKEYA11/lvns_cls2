@@ -1,4 +1,4 @@
-# import necessary packages which are necesary
+# import necessary packages which are necesaryfefwef
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
